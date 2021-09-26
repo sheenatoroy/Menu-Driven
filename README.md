@@ -1,5 +1,5 @@
-# PrelimProject1
-Prelim Project - Menu Driven using OOP 
+# Menu-Driven
+Menu Driven using OOP 
 
 This project will ask the user to enter what transaction he/she wants in the pet shop. 
 - There are 6 information the a user can be fillup.
